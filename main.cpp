@@ -11,8 +11,9 @@ int main()
     int sum;
         sum=cel1+cel2;
         cout <<  "SUM=" << sum << endl;
-
-
+ cout <<  "SUM=" << sum << endl;
+  cout <<  "SUM=" << sum << endl;
+  cout <<  "SUM=" << sum << endl;
     return 0;
 
 

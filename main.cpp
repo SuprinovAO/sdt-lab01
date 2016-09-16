@@ -12,8 +12,10 @@ int main()
         sum=cel1+cel2;
         cout <<  "SUM=" << sum << endl;
  cout <<  "SUM=" << sum << endl;
-  cout <<  "SUM=" << sum << endl;
-  cout <<  "SUM=" << sum << endl;
+
+ int Paz;
+ paz=cel1-cel2;
+ cout << "raz=" << paz << endl;
     return 0;
 
 
